@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
 ![news24](https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif)
+![waving_hand](https://user-images.githubusercontent.com/121472284/230608604-6d78ab33-2bf1-4238-9053-0e79c7522be7.gif)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
