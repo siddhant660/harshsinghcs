@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh Lohiya</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU">
+![news24](https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
