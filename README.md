@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh Lohiya</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjygPzcwJf-AhXT0HMBHbceBdEQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgCMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnOgQIIxAnUIoKWIoKYOolaAFwAHgAgAHCAYgBwgGSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=6OgvZPLsA9Ohz7sPt72UiA0&bih=596&biw=1229&rlz=1C1ONGR_enIN1041IN1041#imgrc=dbrfb5dvHO4gVM"/>
+
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
 - 📫 How to reach me **harshsinghcs01@gmail.com**
 
-- ⚡ Fun fact **I'm an Sports Person🥋🤸‍♂️**
+- ⚡ Fun fact **I'm Funny😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh singh lohiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh singh lohiya" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh_singh_lohiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_singh_lohiya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrsoftbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrsoftbeast" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mr soft beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr soft beast" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshsinghcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshsinghcs" height="30" width="40" /></a>
 </p>
 
