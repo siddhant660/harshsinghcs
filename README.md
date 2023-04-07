@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh Lohiya</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjygPzcwJf-AhXT0HMBHbceBdEQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgCMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnOgQIIxAnUIoKWIoKYOolaAFwAHgAgAHCAYgBwgGSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=6OgvZPLsA9Ohz7sPt72UiA0&bih=596&biw=1229&rlz=1C1ONGR_enIN1041IN1041#imgrc=dbrfb5dvHO4gVM"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjygPzcwJf-AhXT0HMBHbceBdEQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgCMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnMgcIIxDqAhAnOgQIIxAnUIoKWIoKYOolaAFwAHgAgAHCAYgBwgGSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=6OgvZPLsA9Ohz7sPt72UiA0&bih=596&biw=1229&rlz=1C1ONGR_enIN1041IN1041#imgrc=dbrfb5dvHO4gVM">
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
